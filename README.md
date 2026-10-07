@@ -76,6 +76,3 @@ Open http://localhost:8501 in your browser.
 👨‍💻 Author
 Prajjwal bajpai
 
-🐙 GitHub: @AbhishekMishra
-
-💼 LinkedIn: Abhishek Mishra
